@@ -1,7 +1,6 @@
-# Tính tổng các số
-cac_so = [10, 15, 20, 25, 30]
+n = int(input("Nhập số n: "))
+
 tong = 0
-for so in cac_so:
-    tong += so
-    print(f"Thêm {so}, tổng tạm thời: {tong}")
-print(f"Tổng cuối cùng: {tong}")
+for i in range(1, n+1):
+    tong += i
+print("Tổng :", tong)
