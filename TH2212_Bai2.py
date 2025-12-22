@@ -15,4 +15,5 @@ if c < min:
     min = c
 
 print(f"Số lớn nhất là: {max:.2f}")
-print(f"SỐ nhỏ nhất là: {min:.2f}")
+print(f"Số nhỏ nhất là: {min:.2f}")
+
