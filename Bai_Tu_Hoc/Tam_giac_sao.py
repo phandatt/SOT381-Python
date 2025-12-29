@@ -4,5 +4,5 @@
 so_dong = int(input("Nhập số dòng: "))
 
 # In tam giác sao
-for i in range(1, so_dong + 1): # i chạy từ 1 đến so_dong
+for i in range(1, so_dong + 1): 
     print('*' * i)
