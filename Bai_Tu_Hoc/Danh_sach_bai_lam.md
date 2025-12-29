@@ -9,4 +9,7 @@
 - Tam_giac_sao.py
 - Tim_chu_cai_dau_tien_va_cuoi_cung_cua_chuoi.py
 - Tinh_binh_phuong_1_so.py
+<<<<<<< HEAD
 
+=======
+>>>>>>> 62915ef5d72394afc9a73c8348312d246897a298
